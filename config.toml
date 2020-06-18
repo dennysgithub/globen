@@ -1,4 +1,4 @@
-baseURL       = "https://priceless-jackson-63c31c.netlify.app"
+baseURL       = "https://globentak.nordbergmedia.se"
 languageCode  = "en-us"
 title         = "Exempelsida"
 theme         = "roxo-hugo-master"
