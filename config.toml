@@ -1,0 +1,109 @@
+baseURL       = "http://example.org/"
+languageCode  = "en-us"
+title         = "Exempelsida"
+theme         = "roxo-hugo-master"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Hem"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "Om oss"
+    url     = ""
+    weight  = 3
+  [[menu.nav]]
+    name    = "Tjänster"
+    url     = ""
+    weight  = 2
+  [[menu.nav]]
+    name    = "Blogg"
+    url     = ""
+    weight  = 4
+  [[menu.nav]]
+    name    = "033-123 45 67"
+    url     = ""
+    weight  = 5
+
+# Site Params
+[params]
+  logo = "images/logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Globen Tak"
+  author = "StaticMania"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "033-123 45 67"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background2.jpg"
+    heading               = "Din takläggare i Mälardalen sedan 1988."
+    tagline               = "GLOBEN TAK & FASTIGHETSVÅRD"
+    primary_button        = "Våra Tjänster"
+    primary_button_url    = ""
+    secondary_button      = "Fri Offert"
+    secondary_button_url  = ""
+
+  [params.portfolio]
+    enable    = true
+    title     = "VÅRA TJÄNSTER"
+    subtitle  = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-bakgrund.png"
+    title               = "LÅT OSS ARBETA TILLSAMMANS"
+    primary_button      = "033-123 45 67"
+    primary_button_url  = ""
+    secondary_button    = "Fri Offert"
+    secondary_button_url = ""
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Kontakt Info"
+      address = "713 Takläggargatan<br>Test Exempel, 55372"
+      phone   = "111-222-3333"
+      email   = "mail@exempel.se"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Sitemap"
+        [[params.footer.sitemap.link]]
+          name = "Om Företaget"
+          url  = ""
+        [[params.footer.sitemap.link]]
+          name = "Tjänster"
+          url  = ""
+        [[params.footer.sitemap.link]]
+          name = "Blogg"
+          url  = ""
+        [[params.footer.sitemap.link]]
+          name = "Kontakt"
+          url  = ""
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Social Media"
+        [[params.footer.social.link]]
+          name = "Facebook"
+          url  = "#"
+        [[params.footer.social.link]]
+          name = "Instagram"
+          url  = "#"
+      # Footer Service
+      [params.footer.service]
+        title       = "Vi hjälper:"
+        description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"

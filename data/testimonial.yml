@@ -1,0 +1,39 @@
+enable  : true
+title   : "VAD VÅRA KUNDER TYCKER"
+subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+testimonial_item :
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Anders Skog"
+    company_position: "VD, Företaget"
+    quote : > 
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." 
+
+  - thumb : "images/testimonial/user-thumb-two.jpg"
+    name  : "Pelle Svensson"
+    company_position: "Privatperson, husägare"
+    quote : > 
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." 
+
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Anders Skog"
+    company_position: "VD, Företaget"
+    quote : > 
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." 
+
+  - thumb : "images/testimonial/user-thumb-two.jpg"
+    name  : "Pelle Svensson"
+    company_position: "Privatperson, husägare"
+    quote : > 
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." 
+
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Anders Skog"
+    company_position: "VD, Företaget"
+    quote : > 
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." 
+
+  - thumb : "images/testimonial/user-thumb-two.jpg"
+    name  : "Pelle Svensson"
+    company_position: "Privatperson, husägare"
+    quote : > 
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." 

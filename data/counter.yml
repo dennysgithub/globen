@@ -1,0 +1,12 @@
+enable : true
+heading : "LITA PÅ OSS, VI KAN TAK!"
+counter_item: 
+  - title: "Nöjda Kunder"
+    number: "250"
+
+  - title: "Utförda Uppdrag"
+    number: "320"
+
+  - title: "Koppar Kaffe"
+    number: "750"
+
