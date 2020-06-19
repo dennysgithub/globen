@@ -1,5 +1,5 @@
 ---
-title: "PAPPTAK/TÄTSKIKT"
+title: "TÄTSKIKT"
 date: 2019-12-23T23:56:43+06:00
 type: portfolio
 image: "images/projects/asd.jpg"
