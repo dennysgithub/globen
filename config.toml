@@ -1,4 +1,4 @@
-baseURL       = "https://globentak.nordbergmedia.se"
+baseURL       = "https://www.globentak.nordbergmedia.se"
 languageCode  = "en-us"
 title         = "Exempelsida"
 theme         = "roxo-hugo-master"
